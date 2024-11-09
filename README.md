@@ -27,7 +27,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/SIKHAMBEKHIAR/3x-ui/master/install.sh)
 ```
 
 ## Install Custom Version
@@ -35,7 +35,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/3x-ui/master/instal
 To install your desired version, add the version to the end of the installation command. e.g., ver `v2.2.6`: ( wiwiz bot there is no problem until version 2.2.6)
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/3x-ui/master/install.sh) v2.2.6
+bash <(curl -Ls https://raw.githubusercontent.com/SIKHAMBEKHIAR/3x-ui/master/install.sh) v2.2.6
 ```
 
 ## SSL Certificate
